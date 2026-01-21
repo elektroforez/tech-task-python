@@ -1,0 +1,1 @@
+from fixtures.user_fixture import *
